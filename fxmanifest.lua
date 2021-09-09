@@ -1,6 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 author 'MeistroBurger'
+name 'QB-Politiekleding'
 description 'BestPixel Politiekleding als een Item'
 version '1.0.0'
 
