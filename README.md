@@ -5,13 +5,13 @@ daarnaast is alles gekoppeld aan de kleding zoals wij deze ingesteld hebben en k
 # WORK IN PROGRESS - DON'T DOWNLOAD or CLONE
 > Bijdragen, Verbeteren en/of Opmerkingen zijn altijd toegestaan <3
 
-> Images
+###### Images ######
 - Images dienen in qb-inventory geplaatst te worden
 
-> Shared.lua
+###### Shared.lua ######
 - Items zoals in shared.lua dienen toegevoegd te worden aan qb-core/shared.lua
 
-> Credits/Links
+###### Credits/Links ######
 - Credits (Original): [ArcadiaRoleplay](https://github.com/ArcadiaRoleplay/qb-bag)
 - Reworked/Script: MeistroBurger
 - Informatie: [SetPedComponentVariation](https://docs.fivem.net/natives/?_0x262B14F48D29DE80)
