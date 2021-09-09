@@ -13,6 +13,6 @@ daarnaast is alles gekoppeld aan de kleding zoals wij deze ingesteld hebben en k
 
 ###### Credits/Links ######
 - Credits (Original): [ArcadiaRoleplay](https://github.com/ArcadiaRoleplay/qb-bag)
-- Reworked/Script: MeistroBurger
+- Reworked/Script: [MeistroBurger](https://github.com/meistroburger)
 - Informatie: [SetPedComponentVariation](https://docs.fivem.net/natives/?_0x262B14F48D29DE80)
 - Informatie 2: [SetPedComponentVariation](http://www.kronzky.info/fivemwiki/index.php?title=SetPedComponentVariation)
