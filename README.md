@@ -3,6 +3,7 @@
 daarnaast is alles gekoppeld aan de kleding zoals wij deze ingesteld hebben en kan deze dus voor een ieder afwijken. Om meer informatie te krijgen over hoe je deze aanpast bekijk dan Credits/Links.
 
 # WORK IN PROGRESS - DON'T DOWNLOAD or CLONE
+> Bijdragen, Verbeteren en/of Opmerkingen zijn altijd toegestaan <3
 
 > Images
 - Images dienen in qb-inventory geplaatst te worden
