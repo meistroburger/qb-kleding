@@ -2,6 +2,8 @@
 - Voor BestPixel hebben we een gemakkelijk script gemaakt waarmee we politiekleding als een item weergeven en bruikbaar maken. We werken momenteel nog aan het script, waardoor we adviseren deze NIET TE DOWNLOADEN totdat de uiteindelijke versie voltooid is.
 daarnaast is alles gekoppeld aan de kleding zoals wij deze ingesteld hebben en kan deze dus voor een ieder afwijken. Om meer informatie te krijgen over hoe je deze aanpast bekijk dan Credits/Links.
 
+# WORK IN PROGRESS /// DON'T DOWNLOAD or CLONE ///
+
 > Images
 - Images dienen in qb-inventory geplaatst te worden
 
