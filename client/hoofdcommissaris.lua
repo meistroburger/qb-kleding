@@ -34,16 +34,6 @@ AddEventHandler('qb-items:client:use:politiekleding-hoofdcommissaris', function(
 		TaskPlayAnim(player, "clothingtie", "try_tie_negative_a", 3.0, 3.0, 2000, 51, 0, false, false, false)
 		Wait (600)
 		ClearPedSecondaryTask(PlayerPedId())
-		SetPedComponentVariation(PlayerPedId(), 1, 31, 0, 0)
-		SetPedComponentVariation(PlayerPedId(), 3, 0, 0, 1)
-		SetPedComponentVariation(PlayerPedId(), 4, 97, 1, 0)
-		SetPedComponentVariation(PlayerPedId(), 6, 25, 0, 1)
-		SetPedComponentVariation(PlayerPedId(), 7, 2, 0, 0)
-		SetPedComponentVariation(PlayerPedId(), 8, -1, 0, 1)
-		SetPedComponentVariation(PlayerPedId(), 9, 26, 0, 0)
-		SetPedComponentVariation(PlayerPedId(), 10, 1, 0, 0)
-		-- RANG
-		SetPedComponentVariation(PlayerPedId(), 11, 74, 8, 0)
 	end
 	Citizen.Wait(1000)
 end)
