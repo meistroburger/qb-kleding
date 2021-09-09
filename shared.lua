@@ -129,4 +129,17 @@
 		["shouldClose"] = false,   
 		["combinable"] = nil,   
 		["description"] = "Eerste Hoofdcommissaris Kleding"
+	},	
+	
+	["politiekleding-mondkapje"] = {
+		["name"] = "politiekleding-mondkapje",
+		["label"] = "Politie Mondkapje",
+		["weight"] = 100, 		
+		["type"] = "item", 		
+		["image"] = "pol_mondkapje.png",
+		["unique"] = true,
+		["useable"] = true,
+		["shouldClose"] = false,   
+		["combinable"] = nil,   
+		["description"] = "COVID 19 Mondkapje"
 	},

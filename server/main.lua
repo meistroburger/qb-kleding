@@ -71,3 +71,10 @@ QBCore.Functions.CreateUseableItem("politiekleding-eerstehoofdcommissaris", func
         TriggerClientEvent('qb-items:client:use:politiekleding-eerstehoofdcommissaris', source, item.info)
     end
 end)
+
+QBCore.Functions.CreateUseableItem("politiekleding-mondkapje", function(source, item)
+	local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.GetItemBySlot(item.slot) ~= nil then
+        TriggerClientEvent('qb-items:client:use:politiekleding-mondkapje', source, item.info)
+    end
+end)

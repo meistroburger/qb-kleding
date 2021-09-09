@@ -19,6 +19,7 @@ client_scripts {
 	'client/commissaris.lua',
 	'client/hoofdcommissaris.lua',
 	'client/eerstehoofdcommissaris.lua',
+	'client/mondkapje.lua',
 }
 
 server_scripts {	
