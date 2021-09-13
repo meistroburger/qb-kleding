@@ -143,3 +143,17 @@
 		["combinable"] = nil,   
 		["description"] = "COVID 19 Mondkapje"
 	},
+
+	-- Speciale Outfits
+	["specialeoutfit1"] = {
+		["name"] = "specialeoutfit1",
+		["label"] = "Speciale Outfit 1",
+		["weight"] = 100, 		
+		["type"] = "item", 		
+		["image"] = "placeholder.png",
+		["unique"] = true,
+		["useable"] = true,
+		["shouldClose"] = false,   
+		["combinable"] = nil,   
+		["description"] = "Placeholder"
+	},
